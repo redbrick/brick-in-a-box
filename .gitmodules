@@ -1,0 +1,3 @@
+[submodule "nix-configs"]
+	path = nix-configs
+	url = git@github.com:redbrick/nix-configs.git
